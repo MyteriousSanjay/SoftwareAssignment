@@ -1,0 +1,24 @@
+{
+    "students": [
+      {
+        "roll_number": "001",
+        "name": "John Doe",
+        "marks": {
+          "math": 85,
+          "physics": 78,
+          "chemistry": 82
+        }
+      },
+      {
+        "roll_number": "002",
+        "name": "Jane Smith",
+        "marks": {
+          "math": 92,
+          "physics": 88,
+          "chemistry": 95
+        }
+      }
+    ],
+    "status": "editing",
+    "last_updated": "2023-11-15"
+  }
